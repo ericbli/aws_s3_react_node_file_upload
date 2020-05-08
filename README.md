@@ -27,7 +27,24 @@ const s3 = new aws.S3({
 4. `cd client`
 5. `npm install`
 7. `cd ..`
-8. `npm run dev`
+
+8. Update your AWS accessKeyId, secretAccessKey and Bucket name in `./routes/api/profile.js`
+
+``` ruby
+const s3 = new aws.S3({
+	accessKeyId: 'xxx',
+	secretAccessKey: 'xxx',
+	Bucket: 'yourbucketname'             //line 15
+});
+		
+		
+		
+		bucket: 'yourbucketname',     //line  24
+
+
+
+9.  change access to bucket to public
+10. `npm run dev`
 
 ## Built With :zap:
 
