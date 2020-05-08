@@ -3,14 +3,6 @@
 ## Description :clipboard:
 > Demo App for Single and Multiple File Uploads on AWS ( Amazon Web Services ) Bucket
 
-******* PLEASE STAR MY REPO TO SUPPORT ME 🙏 ******
-
-Please follow me 🙏 on [twitter](https://twitter.com/imranhsayed) and github
-
-![](aws-sdk-image.jpg)
-
-## File Upload :computer:
-![](image-upload-aws.png)
 
 
 
@@ -44,11 +36,6 @@ const s3 = new aws.S3({
 3. React
 4. Create React App
 
-## Tutorial Videos :video_camera:
-
-* [Create AWS Bucket](https://youtu.be/cDj4LPTLR3o)
-* [Single File Upload on AWS](https://youtu.be/e-gb9IBfSw8)
-* [Multiple File Upload on AWS](https://youtu.be/eLkVQI2xBD0)
 
 ## Useful Links :link:
 
